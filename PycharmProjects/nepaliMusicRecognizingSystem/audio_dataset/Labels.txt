@@ -1,0 +1,51 @@
+Folder: ./audio_dataset/Gurung-Songs, File: Chhale-Chhyaba.mp3, Genre: Gurung-Song, Artist: Khus-bahadur-Gurung
+Folder: ./audio_dataset/Gurung-Songs, File: Galbandi-chaisyo-ngolsyo.mp3, Genre: Gurung-Song, Artist: Manoj-Gurung,Pabitra-Gurung
+Folder: ./audio_dataset/Gurung-Songs, File: Koilam-Mi-Chhyaba.mp3, Genre: Gurung-Song, Artist: Subash-Gurung,Usha-Gurung
+Folder: ./audio_dataset/Gurung-Songs, File: Kyon-Bina.mp3, Genre: Gurung-Song, Artist: Manit-Gurung,Jyoti-Gurung
+Folder: ./audio_dataset/Gurung-Songs, File: Lafa-Man-Paryo.mp3, Genre: Gurung-Song, Artist: Abinash-Thapa,Ganesh-Gurung,Melina-Rai
+Folder: ./audio_dataset/Gurung-Songs, File: Malmali-Choli.mp3, Genre: Gurung-Song, Artist: Manoj-Gurung,Usha-Gurung
+Folder: ./audio_dataset/Gurung-Songs, File: Ngala-Sansara.mp3, Genre: Gurung-Song, Artist:Hira-Gurung,Monika-Gurung
+Folder: ./audio_dataset/Gurung-Songs, File: Ngolsyo-Ramrani.mp3, Genre: Gurung-Song, Artist: Manoj-Gurung,Milan-Amattya-Newar
+Folder: ./audio_dataset/Gurung-Songs, File: Nubai-Durbara.mp3, Genre: Gurung-Song, Artist: Nabin-Gurung,Usha-Gurung
+Folder: ./audio_dataset/Gurung-Songs, File: Yea-Ngolsyo-Yea-Ngolsyo.mp3, Genre: Gurung-Song, Artist:Tejendra-Gurung
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: Asarai-mahinama.mp3, Genre: Nepali-Folk-Song, Artist:Chujan-Dukpa
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: Babari-Phool-Ko-Bot.mp3, Genre: Nepali-Folk-Song, Artist:Pandav-Sunuwar,Basudev-Munal
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: Haamro-Yug-Ko-Paani-Raamro.mp3, Genre: Nepali-Folk-Song, Artist:Indrajeet-Mijar,Prakash-Shrestha
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: Jhamke-Guleli.mp3, Genre: Nepali-Folk-Song, Artist:Kamalikant-Bhetwal
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: kalilo-tama-lai.mp3, Genre: Nepali-Folk-Song, Artist:Padam-Bista,Tara-Thapa
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: katar-katar-ma.mp3, Genre: Nepali-Folk-Song, Artist:Ram-Thapa,Tara-Thapa
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: rato-rani-fulejhai-saajma.mp3, Genre: Nepali-Folk-Song, Artist:Danny Denzongpa
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: Simali-Chaya-Ma-Basi.mp3, Genre: Nepali-Folk-Song, Artist:Jeevan-Sharma
+Folder: ./audio_dataset/Nepali-Folk-Songs, File: Unkai-Chori-Taruni.mp3, Genre: Nepali-Folk-Song, Artist:Kumar-bAsnet
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Baimani.mp3, Genre: Nepali-Modern-Song, Artist:Sushant-KC
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Gajalu.mp3, Genre: Nepali-Modern-Song, Artist: Sushant-KC
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Ghaam-Chaya.mp3, Genre: Nepali-Modern-Song, Artist:Tuna-Bell-Thapa
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Gulabi.mp3, Genre: Nepali-Modern-Song, Artist:Sushant-KC
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Hami.mp3, Genre: Nepali-Modern-Song, Artist: Prajina
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Je-Chau-Timi.mp3, Genre: Nepali-Modern-Song, Artist: Swoopna-Suman,Samir-Shrestha
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Manaka-Kura.mp3, Genre: Nepali-Modern-Song, Artist:Purna-Rai
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Sarangi.mp3, Genre: Nepali-Modern-Song, Artist:Sushant-KC
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Thamana-Haat.mp3, Genre: Nepali-Modern-Song, Artist:Samir-Shrestha
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Timi-Ra-Ma.mp3, Genre: Nepali-Modern-Song, Artist:Dixita-Karki
+Folder: ./audio_dataset/Nepali-Modern-Songs, File: Timi-Sangai.mp3, Genre: Nepali-Modern-Song, Artist:Kelshang-Gurung
+Folder: ./audio_dataset/Nepali-Old-Songs, File: China-company.mp3, Genre: Nepali-Old-Song, Artist:Bro-Sis-Band
+Folder: ./audio_dataset/Nepali-Old-Songs, File: Ghas-Katne-Khurkera.mp3, Genre: Nepali-Old-Song, Artist:Buddha-Krishna-Lamichhane
+Folder: ./audio_dataset/Nepali-Old-Songs, File: Jomsomai-Bazarma.mp3, Genre: Nepali-Old-Song, Artist:Nepathya
+Folder: ./audio_dataset/Nepali-Old-Songs, File: kanchi-matyang-tyang.mp3, Genre: Nepali-Old-Song, Artist:Shyam-Nepali
+Folder: ./audio_dataset/Nepali-Old-Songs, File: malai-khutrukkai-paryo-jethan-timro-bainile.mp3, Genre: Nepali-Old-Song, Artist:Master-Mitrasen-Thapa
+Folder: ./audio_dataset/Nepali-Old-Songs, File: Oh-Amira.mp3, Genre: Nepali-Old-Song, Artist: Deepak-Bajracharya
+Folder: ./audio_dataset/Nepali-Old-Songs, File: Siri-Ma-Siri.mp3, Genre: Nepali-Old-Song, Artist:Milan-Amatya
+Folder: ./audio_dataset/Nepali-Old-Songs, File: Timle-ta-hoina.mp3, Genre: Nepali-Old-Song, Bacchu-Kailash
+Folder: ./audio_dataset/Nepali-Old-Songs, File: Triri-murali-bajyo-banaima.mp3, Genre: Nepali-Old-Song, Artist:Prabesh-Man-Shakya
+Folder: ./audio_dataset/Nepali-Old-Songs, File: Yo-Nepali-shir-uchali.mp3, Genre: Nepali-Old-Song, Artist: Bhupi-Sherchan
+Folder: ./audio_dataset/Newari-Songs, File: Chanta-Khanewo.mp3, Genre: Newari-Song, Artist:Juju-Bajracharya,Swasti-Maharjan
+Folder: ./audio_dataset/Newari-Songs, File: Hai-Hai-Re-Kanchhi.mp3, Genre: Newari-Song, Artist:Ashishma-Nakarmi
+Folder: ./audio_dataset/Newari-Songs, File: Kanhi-Maicha.mp3, Genre: Newari-Song, Artist:Roshni-Shrestha,Suman-Kapali
+Folder: ./audio_dataset/Newari-Songs, File: Kaula-kachala.mp3, Genre: Newari-Song, Artist:Durga-Lal-Shrestha
+Folder: ./audio_dataset/Newari-Songs, File: Likka-Woya.mp3, Genre: Newari-Song, Artist:Ratna-Shova-Maharjan
+Folder: ./audio_dataset/Newari-Songs, File: Lwondaya-khaudaya.mp3, Genre: Newari-Song, Artist:Gujay-Malakar
+Folder: ./audio_dataset/Newari-Songs, File: Man-Magan-NEWA-VERSION.mp3, Genre: Newari-Song, Artist:Deepak-Bajracharya
+Folder: ./audio_dataset/Newari-Songs, File: Mhaa-Jita-Hayekay-Matey.mp3, Genre: Newari-Song, Artist:Nisha-Deshar,Satya-Narayan-Manandhar
+Folder: ./audio_dataset/Newari-Songs, File: Salugu-Gacha.mp3, Genre: Newari-Song, Artist:Bibindra-Dangol,Roj-Man-Maharjan
+Folder: ./audio_dataset/Newari-Songs, File: Sirsaya-Hegu.mp3, Genre: Newari-Song, Artist:Sabita-Malakar
+Folder: ./audio_dataset/Newari-Songs, File: WO-CHU-GALLIPANBATI.mp3, Genre: Newari-Song, Artist:Sanjeep-Pradhan,Deepa-Maharjan

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Music Player</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
+</head>
+<body>
+  <h1>Music Player</h1>
+  <div id="music-data">
+    <!-- Data will be populated here -->
+  </div>
+  
+  <script>
+    // Read the CSV file
+    Papa.parse('http://localhost/path-to-your/dataset.csv', {
+      download: true,
+      header: true,
+      complete: function(results) {
+        let data = results.data;
+        let musicDataDiv = document.getElementById('music-data');
+
+        // Iterate over each row in the data
+        for (let i = 0; i < data.length; i++) {
+          let row = data[i];
+
+          // Create the elements for displaying the song information
+          let title = document.createElement('h2');
+          title.textContent = row.File;
+          let artist = document.createElement('h3');
+          artist.textContent = "Artist: " + row.Artist;
+          let genre = document.createElement('h4');
+          genre.textContent = "Genre: " + row.Genre;
+
+          // Create the audio player
+          let audio = document.createElement('audio');
+          audio.controls = true;
+          let source = document.createElement('source');
+          source.src = row.Folder + '/' + row.File;
+          source.type = 'audio/mpeg';
+          audio.appendChild(source);
+
+          // Add the elements to the page
+          musicDataDiv.appendChild(title);
+          musicDataDiv.appendChild(artist);
+          musicDataDiv.appendChild(genre);
+          musicDataDiv.appendChild(audio);
+        }
+      }
+    });
+  </script>
+</body>
+</html>
